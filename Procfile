@@ -1,0 +1,1 @@
+web: gunicorn webappone.wsgi --log-file -
